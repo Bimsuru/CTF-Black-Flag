@@ -18,9 +18,3 @@ else
 
 </body>
 </html><?php
-/**
- * Created by PhpStorm.
- * User: Pavithra
- * Date: 7/26/2018
- * Time: 9:21 PM
- */
